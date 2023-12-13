@@ -35,11 +35,13 @@
 .header__links-list-item_no-bullit {
     line-height: 24.3px; /* 135% */
     list-style: none;
+}
+.header__links-list-item_no-decor {
     text-decoration: none;
 }
 .header__logo {
     display: block;
-    padding-left: 50px;
+    padding-left: 48px;
 }
 .header__logo-image {
     width: 148px;
@@ -211,19 +213,19 @@
     flex-shrink: 0;
     background-size: cover;
     repeat: no-repeat;
-    background-image: url('C:/Users/polya/ono-tebe-nado/images/card-lot-01.jpg');
+    background-image: url('C:/Users/polya/new-repo/images/card-lot-01.jpg');
 }
 .card_type_book {
     flex-shrink: 0;
     background-size: cover;
     repeat: no-repeat;
-    background-image: url('C:/Users/polya/ono-tebe-nado/images/card-lot-02.jpg');
+    background-image: url('C:/Users/polya/new-repo/images/card-lot-02.jpg');
 }
 .card_type_picture {
     flex-shrink: 0;
     background-size: cover;
     repeat: no-repeat;
-    background-image: url('C:/Users/polya/ono-tebe-nado/images/card-lot-03.jpg');
+    background-image: url('C:/Users/polya/new-repo/images/card-lot-03.jpg');
 }
 .lots__look-more-link {
     font-size: 20px;
