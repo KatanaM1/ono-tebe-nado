@@ -191,6 +191,7 @@
     display: block;
     height: 100%;
     text-underline-offset: 4px;
+    text-decoration: none;
 }
 .card__title {
     color: #FFF;
