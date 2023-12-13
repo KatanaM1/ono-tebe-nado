@@ -63,7 +63,7 @@
     font-style: normal;
 }
 .cover {
-    background-image: url(C:/Users/polya/ono-tebe-nado/images/cover.jpg);
+    background-image: url(../images/cover.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -213,19 +213,19 @@
     flex-shrink: 0;
     background-size: cover;
     repeat: no-repeat;
-    background-image: url('C:/Users/polya/new-repo/images/card-lot-01.jpg');
+    background-image: url(../images/card-lot-01.jpg);
 }
 .card_type_book {
     flex-shrink: 0;
     background-size: cover;
     repeat: no-repeat;
-    background-image: url('C:/Users/polya/new-repo/images/card-lot-02.jpg');
+    background-image: url(../images/card-lot-02.jpg);
 }
 .card_type_picture {
     flex-shrink: 0;
     background-size: cover;
     repeat: no-repeat;
-    background-image: url('C:/Users/polya/new-repo/images/card-lot-03.jpg');
+    background-image: url(../images/card-lot-03.jpg);
 }
 .lots__look-more-link {
     font-size: 20px;
